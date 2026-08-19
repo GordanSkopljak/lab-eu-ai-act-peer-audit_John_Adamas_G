@@ -1,23 +1,29 @@
-# Audit your teammate's project
+# Peer audit: Module 7, EU AI Act
 
-**Track:** Module 7 — EU AI Act · **When:** Week 7, Day 2 · **Status:** Required
+**Auditor:** Gordan
+**Teammate audited:** John Adams
+**System audited:** Virtual Coffee Chat Bot (John's Project 3), a conversational agent that stands in for John during a first contact with a recruiter.
+**Source repository:** https://github.com/jp92672/johna-project3-week6-virtural-coffee-chat-bot
+**Audit date:** 18 August 2026
 
-This repository contains everything you need for this lab.
+## File map
 
-## Files
+| File | Contents | Lab phases covered |
+|---|---|---|
+| `compliance_memo_virtual_coffee_chat_bot.md` | The audit report and compliance memorandum. System summary, risk classification, role map, findings with severity, overall recommendation, clarifying questions log, remediation roadmap, disclaimer, and the Phase 1 annotated read as an appendix. | Phases 1 to 4, and all six required report sections |
+| `05_debrief_note.md` | Five step debrief record and the joint closing note, written with John. | Phase 5 |
+| `06_work_plan.md` | Consulting work plan closing the one blocking finding. | Stretch |
 
-- [`instructions.md`](./instructions.md) — the lab instructions
-- [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
+## Where each required element sits
 
-## How to complete this lab
-
-1. **Fork** this repository.
-2. Do the work described in `instructions.md`, committing to your fork.
-3. Open a **pull request** back into this repository.
-4. You'll receive **AI feedback** on your PR based on `rubric.md`. Address any blocking feedback and push updates to the same PR.
-
-## Submission hygiene
-
-- Keep this repository scoped to this lab only — no unrelated projects or personal files.
-- Use clear, descriptive filenames.
-- Remove secrets, API keys, and tokens before committing.
+| Required element | Location |
+|---|---|
+| Section 1, system summary | Memo, Section 2 |
+| Section 2, risk classification | Memo, Section 4 |
+| Section 3, role map | Memo, Section 5 |
+| Section 4, compliance findings with severity | Memo, Section 7 |
+| Section 5, overall recommendation | Memo, Section 8 |
+| Section 6, what this report is not | Memo, Section 15 |
+| Clarifying questions log | Memo, Section 9 |
+| Phase 1 annotations | Memo, Section 14 |
+| Joint closing note | `05_debrief_note.md` |

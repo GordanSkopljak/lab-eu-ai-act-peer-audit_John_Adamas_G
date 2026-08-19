@@ -1,12 +1,7 @@
 # Audit your teammate's project
 
-> **How you'll submit this lab**
->
-> This repo is your lab. Fork it, do the work described below in your fork, then open a pull
-> request back into this repository. An AI reviewer will check your PR against `rubric.md` and
-> leave feedback directly on the PR. See `README.md` for the full workflow.
 
-In this lab, you audit a teammate's SilverTrust project — and they audit yours. Neither of you has built the other's system, which is exactly the point. An external reviewer catches things that builders miss. Fresh eyes see gaps that familiarity hides.
+In this lab, you audit a teammate's Virtual coffee chat bot project — and they audit yours. Neither of you has built the other's system, which is exactly the point. An external reviewer catches things that builders miss. Fresh eyes see gaps that familiarity hides.
 
 This lab pairs with the self-audit lab. You should complete your own self-audit first. The peer audit tests whether an independent reviewer reaches the same conclusions — and surfaces the differences when they don't.
 
